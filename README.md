@@ -32,7 +32,7 @@ $ mane -s EU -t US -f deutsch.txt
 mane is a Go tool, so install it via the `go` command:
 
 
-``shell
+```shell
 # go version < 1.16
 $ go get github.com/shimst3r/mane
 
